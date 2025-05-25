@@ -1,3 +1,0 @@
-../ioExpander/ioExpander.c:13:6:ioExpanderPinInit	32	static
-../ioExpander/ioExpander.c:38:6:ioExpanderwrite	16	static
-../ioExpander/ioExpander.c:46:6:ioExpanderInit	24	static

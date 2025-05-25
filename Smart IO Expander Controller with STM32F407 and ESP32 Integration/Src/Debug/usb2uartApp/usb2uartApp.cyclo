@@ -1,8 +1,0 @@
-../usb2uartApp/usb2uartApp.c:23:6:update_Data_From_Appllication	79
-../usb2uartApp/usb2uartApp.c:378:6:updateSerialInputBuffer	4
-../usb2uartApp/usb2uartApp.c:394:6:uartPinInit	1
-../usb2uartApp/usb2uartApp.c:425:6:userApplicationInit	2
-../usb2uartApp/usb2uartApp.c:447:6:UART4_IRQHandler	2
-../usb2uartApp/usb2uartApp.c:456:9:stringCompare	3
-../usb2uartApp/usb2uartApp.c:467:9:arithmeticToNumeric	3
-../usb2uartApp/usb2uartApp.c:478:9:stringValidation	3

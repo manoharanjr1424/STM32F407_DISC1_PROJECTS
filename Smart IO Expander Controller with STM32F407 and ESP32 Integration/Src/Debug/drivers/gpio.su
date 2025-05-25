@@ -1,8 +1,0 @@
-../drivers/gpio.c:10:9:GpioPortSet	16	static
-../drivers/gpio.c:17:9:GpioPinSet	24	static
-../drivers/gpio.c:77:9:GpioPinWrite	16	static
-../drivers/gpio.c:83:9:GpioPinRead	24	static
-../drivers/gpio.c:92:9:GpioPortWrite	16	static
-../drivers/gpio.c:98:9:GpioPortRead	16	static
-../drivers/gpio.c:104:9:GpioIntEnable	16	static
-../drivers/gpio.c:155:9:GpioIntDisable	16	static

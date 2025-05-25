@@ -1,7 +1,0 @@
-../drivers/i2c.c:5:6:I2C_Init	4
-../drivers/i2c.c:33:6:I2C_Write	3
-../drivers/i2c.c:38:9:I2C_WriteContinoues	5
-../drivers/i2c.c:54:9:I2C_Read	1
-../drivers/i2c.c:57:9:I2C_ReadContinoues	1
-../drivers/i2c.c:60:9:I2C_Start	3
-../drivers/i2c.c:84:9:I2C_Stop	2

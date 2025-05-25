@@ -1,2 +1,0 @@
-../drivers/interrupt.c:11:9:NvicEnableInt	16	static
-../drivers/interrupt.c:25:9:NvicDisableInt	16	static
