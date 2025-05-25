@@ -1,0 +1,11 @@
+../drivers/uart.c:11:21:uartInit	2
+../drivers/uart.c:43:10:uartWrite	2
+../drivers/uart.c:53:10:uartRead	1
+../drivers/uart.c:57:9:uartSendChar	3
+../drivers/uart.c:64:9:uartReceiveChar	2
+../drivers/uart.c:69:9:uartPheripheralEnable	7
+../drivers/uart.c:79:21:enableSysPheripheral	2
+../drivers/uart.c:93:6:uartCalculateBaurdRate	4
+../drivers/uart.c:125:21:uartInterruptEnable	5
+../drivers/uart.c:158:21:uartInterruptDisable	5
+../drivers/uart.c:181:9:usartEnable	2
