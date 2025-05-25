@@ -1,0 +1,3 @@
+../drivers/mcu.c:21:10:GetSystemClockFrequency	24	static
+../drivers/mcu.c:44:10:GetAPB1ClockFrequency	72	static
+../drivers/mcu.c:90:6:SystemInit	4	static

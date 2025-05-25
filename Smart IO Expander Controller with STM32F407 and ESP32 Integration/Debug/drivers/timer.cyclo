@@ -1,0 +1,9 @@
+../drivers/timer.c:17:6:TIM1_BRK_TIM9_IRQHandler	2
+../drivers/timer.c:27:6:TimerInit	1
+../drivers/timer.c:38:6:TimerEnable	1
+../drivers/timer.c:49:6:TimerPrescaleSet	1
+../drivers/timer.c:55:6:TimerDisable	1
+../drivers/timer.c:60:6:TimerLoadValue	1
+../drivers/timer.c:64:6:MilliSecondsDelay	2
+../drivers/timer.c:72:6:MicroSecondsDelay	4
+../drivers/timer.c:94:6:SecondsDelay	2
