@@ -9,7 +9,7 @@ START_BYTE = 0x81
 STOP_BYTE = 0xA5
 
 # Replace with your actual USB port (e.g., 'COM3' on Windows or '/dev/ttyUSB0' on Linux)
-USB_PORT = '/dev/ttyUSB0'  # or '/dev/ttyUSB0'
+USB_PORT = '/dev/ttyUSB0'  
 BAUD_RATE = 9600
 
 def send_to_usb():
