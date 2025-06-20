@@ -1,11 +1,3 @@
-/*
- * cmd.c
- *
- *  Created on: Jun 5, 2025
- *      Author: mjayakumar
- */
-
-
 #include "cmd.h"
 
 char   *invalidMsg = "\n ================================= \n INVALID OPTION \n ================================= \n";
