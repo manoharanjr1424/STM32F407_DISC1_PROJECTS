@@ -1,9 +1,3 @@
-/*
- * main.h
- *
- *  Created on: Jun 5, 2025
- *      Author: mjayakumar
- */
 
 #ifndef MAIN_H_
 #define MAIN_H_
