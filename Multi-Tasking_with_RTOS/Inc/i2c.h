@@ -1,9 +1,4 @@
-/*
- * i2c_header.h
- *
- *  Created on: Mar 25, 2025
- *      Author: mjayakumar
- */
+
 
 #ifndef I2C_H_
 #define I2C_H_
