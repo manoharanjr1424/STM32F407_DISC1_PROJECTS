@@ -1,9 +1,4 @@
-/*
- * rtc.c
- *
- *  Created on: Jun 5, 2025
- *      Author: mjayakumar
- */
+
 
 #include "rtc.h"
 
