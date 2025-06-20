@@ -1,9 +1,4 @@
-/*
- * interrupt.h
- *
- *  Created on: Feb 23, 2025
- *      Author: mjayakumar
- */
+
 #ifndef INTERRUPT_H_
 #define INTERRUPT_H_
 
