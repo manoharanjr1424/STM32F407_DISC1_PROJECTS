@@ -1,9 +1,4 @@
-/*
- * rtc.h
- *
- *  Created on: Jun 5, 2025
- *      Author: mjayakumar
- */
+
 
 #ifndef RTC_H_
 #define RTC_H_
