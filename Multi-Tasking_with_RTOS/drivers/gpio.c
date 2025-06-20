@@ -1,9 +1,4 @@
-/*
- * gpio_driver.c
- *
- *  Created on: Jan 30, 2025
- *      Author: mjayakumar
- */
+
 
 #include "gpio.h"
 
