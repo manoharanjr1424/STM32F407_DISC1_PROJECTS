@@ -1,9 +1,4 @@
-/*
- * timer.h
- *
- *  Created on: Mar 1, 2025
- *      Author: mjayakumar
- */
+
 
 #ifndef TIMER_H_
 #define TIMER_H_
