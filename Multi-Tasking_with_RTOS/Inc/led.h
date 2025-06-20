@@ -1,9 +1,4 @@
-/*
- * led.h
- *
- *  Created on: Jun 5, 2025
- *      Author: mjayakumar
- */
+
 
 #ifndef LED_H_
 #define LED_H_
