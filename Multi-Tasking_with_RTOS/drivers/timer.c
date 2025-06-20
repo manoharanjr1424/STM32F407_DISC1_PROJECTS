@@ -1,9 +1,4 @@
-/*
- * timer.c
- *
- *  Created on: Mar 1, 2025
- *      Author: mjayakumar
- */
+
 
 
 #include "mcu.h"
