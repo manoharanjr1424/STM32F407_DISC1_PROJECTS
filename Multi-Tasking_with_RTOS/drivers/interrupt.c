@@ -1,9 +1,4 @@
-/*
- * interrupt.c
- *
- *  Created on: Feb 23, 2025
- *      Author: mjayakumar
- */
+
 
 #include <mcu.h>
 #include <interrupt.h>
