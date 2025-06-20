@@ -1,9 +1,3 @@
-/*
- * mcu.c
- *
- *  Created on: May 8, 2025
- *      Author: mjayakumar
- */
 
 
 #include "mcu.h"
