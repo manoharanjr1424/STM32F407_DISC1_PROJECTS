@@ -1,9 +1,4 @@
-/*
- * gpio_header.h
- *
- *  Created on: Jan 30, 2025
- *      Author: mjayakumar
- */
+
 
 #ifndef GPIO_HEADER_H_
 #define GPIO_HEADER_H_
