@@ -1,9 +1,3 @@
-/*
- * cmd.h
- *
- *  Created on: Jun 5, 2025
- *      Author: mjayakumar
- */
 
 #ifndef CMD_H_
 #define CMD_H_
