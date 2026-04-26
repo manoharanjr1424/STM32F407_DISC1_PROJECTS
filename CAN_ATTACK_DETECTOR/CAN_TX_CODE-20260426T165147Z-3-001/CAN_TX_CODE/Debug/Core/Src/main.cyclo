@@ -1,0 +1,11 @@
+../Core/Src/main.c:52:5:main	1
+../Core/Src/main.c:97:6:SystemClock_Config	3
+../Core/Src/main.c:141:13:MX_CAN1_Init	2
+../Core/Src/main.c:173:13:MX_UART4_Init	2
+../Core/Src/main.c:201:13:MX_GPIO_Init	1
+../Core/Src/main.c:219:6:UnauthorizedAttack	4
+../Core/Src/main.c:240:6:ReplayAttack	4
+../Core/Src/main.c:265:6:SpoofingAttack	4
+../Core/Src/main.c:297:6:FloodingAttack	3
+../Core/Src/main.c:319:6:NormalMessage	5
+../Core/Src/main.c:377:6:Error_Handler	1

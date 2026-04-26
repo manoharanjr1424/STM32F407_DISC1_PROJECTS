@@ -1,0 +1,4 @@
+../SerialConsole/Serial.c:25:6:MainMenu	8
+../SerialConsole/Serial.c:75:9:ReadExitStatus	4
+../SerialConsole/Serial.c:86:6:HAL_UART_RxCpltCallback	1
+../SerialConsole/Serial.c:92:6:PrintLog	2
